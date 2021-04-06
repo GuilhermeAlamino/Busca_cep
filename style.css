@@ -1,0 +1,45 @@
+.form-group{
+    background-color:whitesmoke;
+    margin:0 auto;
+    border:2px solid#666;
+    border-radius:5px;
+    padding:10px;
+    margin-top:25px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+#botao{
+    margin-top:5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+}
+
+input{
+    width:auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.alert-success{
+    display:none;
+    margin-top:10px;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.alert-danger{
+    display:none;
+    margin-top:10px;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    margin-top:3px;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
